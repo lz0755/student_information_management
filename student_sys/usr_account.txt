@@ -1,0 +1,3 @@
+root 12345 0
+liming liming12345 1
+tom passwd 1
